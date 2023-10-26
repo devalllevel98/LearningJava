@@ -1,0 +1,34 @@
+DAY 1 26/10/2023
+=================================================================================
+1. JVM java virtual machine (tải code, kiểm tra code, thực thi code, cung cấp môi trường run time.
+2. JRE Java runtime enviroment cung cấp môi trường runtime.
+3. JDK jva development kit bao gồm JRE và các Development Tool.
+
+4. các kiểu biến trong java.
+    1. Biến local nằm trong block code
+    2. Biến instance: được khai báo trong 1 lớp bên ngoài các constructor và các block
+        int a;
+    3. Biến Static  public static float A = 2;
+5. các kiểu dữ liệu nguyên thuỷ trong java
+    1. byte 1 byte kích thướt 8 bit default = 0 -127 => 127
+    2. char 2 byte kích thướt 16bit (ký tự số nguyên hông âm )
+    3. boolean 1 bit (true false) default false
+    4. short 2byte dùng lưu trữ kiểu số nguyên -32768 => +32767
+    5. int 4byte(32bit) lưu trư số nguyên -2.147.483.648 => +2.147.483.647
+    6. long 8byte mặt định 0L
+    7. float 4byte lưu trữ số thực 0.0F
+    8. dounle 8byte sô thực 0.00D
+
+6. các kiểu dữ liệu đối tượng.
+    1. Array mảng cùng kiểu dữ liệu
+    2. class lớp đối tượng do người dùng định nghĩa chứa thuộc tính và phương thức
+    3. interface Dữ liệu lớp giao tiếp người dùng định nghĩa chứa phương thức giao tiếp.
+
+7.Ép kiểu dữ liệu
+    1.widenning ( kdl nhỏ sang kiểu dữ liệu lớn kg làm mất TT)
+    2. Narrowwing (Kdl lớn sang kdl nhỏ)
+8. Toán tủ Java
+
+
+DAY 2 27/10/2023
+=================================================================================
